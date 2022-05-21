@@ -1,0 +1,5 @@
+project: oxigraph
+target: sparql_query
+
+cmds:
+  - cmd: /sparql_query
